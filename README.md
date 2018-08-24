@@ -1,5 +1,4 @@
-# Interactive picture similar color extractor
-<br>
+# Interactive picture similar color extractor<br>
 ## introduction
 ### A simple interactive program created with MATLAB gui to extract similar color pixel regions in an image.
 <br>

@@ -1,13 +1,13 @@
 # Interactive picture similar color extractor
 <br>
-##introduction
-###A simple interactive program created with MATLAB gui to extract similar color pixel regions in an image.
+## introduction
+### A simple interactive program created with MATLAB gui to extract similar color pixel regions in an image.
 <br>
-##Algorithm
+## Algorithm
 <br>
-###Extracting the pixel color program is very simple. I learned the gui in one afternoon and wrote this program. The difficulty in programming is the parameter passing, because there is no regular usage such as return.
+### Extracting the pixel color program is very simple. I learned the gui in one afternoon and wrote this program. The difficulty in programming is the parameter passing, because there is no regular usage such as return.
 <br>
-##sample
+## sample
 <br>
 <table>
 <tr> 
